@@ -1,0 +1,4 @@
+#Fri Dec 29 12:47:51 CET 2023
+base.0=/Users/elenadosil/AndroidStudioProjects/TiltSpot_start/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
